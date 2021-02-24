@@ -1,6 +1,6 @@
 def total(a,b):
-    """ DOc string added at git-hub"""
+    """ doc string added at git-hub and corrected at local PC """
     return a+b
 def multiply(a,b):
-     """ DOc string added at git-hub"""
+    """ doc string added at git-hub and corrected at local PC """
     return a*b
